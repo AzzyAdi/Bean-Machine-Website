@@ -31,6 +31,13 @@
   };
 
   const recipes = {
+
+    'Chocolate Waffle': ['1 waffle, 1 coco powder → Chocolate Waffle'],
+    'Strawberry waffle': ['1 waffle, 1 Strawberry → Strawberry waffle'],
+    'Apple Cinnamon waffle': ['1 waffle, 1 Apple, 1 Cinnamon → Apple Cinnamon waffle'],
+    'Chocolate Strawberry Waffle': ['1 waffle, 1 Coco powder, 1 Strawberry, 1 Sugar → Chocolate Strawberry Waffle'],
+    'Strawberry Banana waffle': ['1 waffle, 1 Strawberry, 1 Banana, (Drag Banana then Craft) → Strawberry Banana waffle'],
+    'Dark Chocolate': ['2 Coco powder, 1 Milk → Dark Chocolate'],
     'Vanila Ice Cream': ['1 Ice cream Cone, 1 Milk → Vanila Ice Cream'],
     'Chocolate Ice Cream': ['1 Ice cream Cone, 1 Milk, 1 Cocoa Powder → Chocolate Ice Cream'],
     'Apple Ice Cream': ['1 Ice cream Cone, 1 Milk, 1 Apple → Apple Ice Cream'],
